@@ -31,6 +31,15 @@ This project demonstrates how to perform chat-like interactions with multiple in
 
 ## Features
 
-1. Supports multiple indexes, with each index corresponding to a single text file.
+- Supports multiple indexes, with each index corresponding to a single text file.
 
-2. User-friendly chat-like interface for interacting with each index.
+- User-friendly chat-like interface for interacting with each index.
+
+## Sample questions
+
+#### For Engine corresponding to CHAPTER I
+- What is the conclusion of this chapter?
+#### For Engine corresponding to CHAPTER III
+- How does the Romanes describes the passage from the generic image to the concept?
+#### For Engine corresponding to CHAPTER V
+- What is the main focus of the passage "Section III. The Concept of Time"?
