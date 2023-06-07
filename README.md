@@ -23,7 +23,7 @@ This project demonstrates how to perform chat-like interactions with multiple in
    ```
 ## Usage
 
-1. Place your text files in the data/paul_graham directory.
+1. Place your text files in the ../data/ directory.
 
 2. Run the script
 
