@@ -43,3 +43,6 @@ This project demonstrates how to perform chat-like interactions with multiple in
 - How does the Romanes describes the passage from the generic image to the concept?
 #### For Engine corresponding to CHAPTER V
 - What is the main focus of the passage "Section III. The Concept of Time"?
+
+## NOTE
+- Use may need an OpenAI_API_KEY for the script to function properly
