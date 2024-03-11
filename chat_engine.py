@@ -2,7 +2,6 @@
 import os
 from llama_index.core import VectorStoreIndex, SimpleDirectoryReader
 from dotenv import load_dotenv
-import os
 import openai
 
 load_dotenv()
