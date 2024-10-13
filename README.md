@@ -47,3 +47,6 @@ This project demonstrates how to perform chat-like interactions with multiple in
 #### For Engine corresponding to CHAPTER V
 - What is the main focus of the passage "Section III. The Concept of Time"?
 - The main focus of the passage "Section III. The Concept of Time" is on the development and evolution of the concept of time from a primitive understanding to a more abstract and conceptualized form. It discusses how early humans relied on concrete markers and natural phenomena to grasp the passage of time, gradually progressing towards a more sophisticated understanding through the observation of regular natural phenomena like the movements of celestial bodies. The passage also touches upon the subjective nature of our perception of time, the distinction between real and conceptual infinity, and the role of consciousness in shaping our understanding of time.
+
+## Note 
+- You need OpenAI_API_KEY to use this script
